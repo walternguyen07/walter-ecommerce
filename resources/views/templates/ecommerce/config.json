@@ -1,0 +1,9 @@
+{
+    "name": "Ecommere Fashion basic",
+    "image": "images/scart-min.png",
+    "auth": "Walter Nguyen",
+    "email": "walternguyen07@gmail.com",
+    "website": "http://ecommerce.johnnguyenn.com/",
+    "configKey": "ecommerce",
+    "version": "1.1"
+}
